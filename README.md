@@ -57,5 +57,5 @@ Feel free to explore the website and test its various functionalities.
 - [@nilaylilawala](https://github.com/nilaylilawala)
 - [@Ravij22](https://github.com/Ravij22)
 - [@Rachitshah07](https://github.com/rachitshah07)
-- [@Malav26](https://github.com/Malavshah26)
+- [@Malavshah26](https://github.com/Malavshah26)
 - [@devam1502](https://github.com/devam1502)
