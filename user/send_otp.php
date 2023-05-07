@@ -21,10 +21,10 @@ if ($count_row > 0) {
     require_once 'config.php';
     require 'vendor/autoload.php';
     $email = new \SendGrid\Mail\Mail();
-    $email->setFrom("rachitshah0709@gmail.com", "Nirma VLAB");
+    $email->setFrom("YOUR_REGISTERED_EMAIL, "Nirma VLAB");
     $email->setSubject($subject);
     $email->addTo($user_email, $username);
-    $email->addContent("text/plain", "RACHIT SHAH");
+    $email->addContent("text/plain", "ANY");
     $email->addContent(
         "text/html",
         "<strong>$msg</strong>"
