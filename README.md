@@ -29,7 +29,7 @@ To set up the MySQL database for the e-commerce website, follow these steps:
 
     1. Create a new MySQL database with the name you specified in the $db_name variable.
 
-    2. Import the database schema from in the database folder.
+    2. Import the database schema from the root directory named as 'user_table.sql' .
     
 
 # Running the Website
