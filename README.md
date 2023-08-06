@@ -44,11 +44,11 @@ To run the e-commerce website, follow these steps:
 
 Once the website is up and running, you can use it as an e-commerce platform. Here are some key features and functionalities:
 
-- User Registration and Login: Users can create accounts and log in to access personalized features.
-- Product Catalog: Users can browse through a catalog of products and view details such as prices, descriptions, and images.
-- Shopping Cart: Users can add products to their shopping cart and proceed to checkout.
-- Order Placement: Users can place orders for the products in their shopping cart.
-- Payment Processing: Users can make payments using different payment methods.
+- User Registration and Login: Users can create accounts and log in.
+- Aim and theory: Students can uderstand the aim of the practical and concepts related to IR Spectroscopy on this page.
+- Quiz/Test: Students can take tests of different difficulty levels and assess their understanding of the concept based on the scores.
+- Simulation: Students can carry out the practical virtually with the help of the simulator for better clarity. 
+- Graph visualization: Students can select a compound from a list of compounds and its IR Spectroscopy graph will be visible on the screen along with the functional groups present in the compund. Students can then analyze the graph and understand the concept.
 
 Feel free to explore the website and test its various functionalities.
 
